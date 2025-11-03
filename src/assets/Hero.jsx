@@ -5,7 +5,7 @@ import { Bars3Icon, XMarkIcon } from '@heroicons/react/24/outline'
 import AnchorLInk from 'react-anchor-link-smooth-scroll'
 import { IoCallOutline } from "react-icons/io5";
 import { IoMdClose } from "react-icons/io";
-import Chiriwa from '../assets/pictures/chiriwa.pdf'
+import Chiriwa from '../assets/pictures/Chiriwa.pdf'
 
 export default function Example() {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false)

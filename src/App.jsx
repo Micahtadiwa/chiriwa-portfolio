@@ -1,5 +1,5 @@
 import React from 'react'
-import Hero from './assets/hero'
+import Hero from './assets/Hero'
 import About from './assets/about'
 import Services from './assets/services'
 import Portfolio from './assets/portfolio'
